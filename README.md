@@ -16,5 +16,6 @@
 
 ## Result
 * ResNet50 + SGD + DiceLoss have the best result of Dice Coefficient 0.803
-
-![alt text](/api/asset/download?experimentKey=1587b6cfaf2a4fe69d94f684782c4a30&assetId=dcd116a70d484d14a3810452d5023436)
+* Dice Loss on Validation Dataset for ResNet50 + SGD + DiceLoss
+![Dice Loss on Validation Dataset](https://github.com/potato0o/Lung-Tumor-Segmentation-with-DeepLabV3/blob/main/Result/ValDice.jpeg)
+![Dice Loss on Validation Dataset](https://github.com/potato0o/Lung-Tumor-Segmentation-with-DeepLabV3/blob/main/Result/Val%20Prediction%20vs%20Label.jpeg)
