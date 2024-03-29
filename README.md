@@ -6,8 +6,9 @@
 * Fixed Hyperparameter: learning rate, activation function
 * Tweerked Hyperparameter: optimizer, loss function
 * Dataset: CT images from http://medicaldecathlon.com/
+* Preprocessed Dataset: https://www.kaggle.com/datasets/liewyeezhing/balanced-data
 
-## Explaination
+## Explanation
 * Use DeepLabV3 with ResNet101 to perform the lung cancer segmentation
 * Perform hyperparameter tuning for the model to find the best-performed hyperparameter
 * Feature Decoder: Pretrained ResNet50, ResNet101
